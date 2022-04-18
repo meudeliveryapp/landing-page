@@ -145,3 +145,8 @@ main .content .logo h1 {
     font-size: 1.5rem;
   }
 }
+
+.label {
+  color: var(--blue);
+  font-weight: 600;
+}
